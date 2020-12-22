@@ -59,7 +59,7 @@
 <br />
 <br />
 <h3> 📬 Get in Touch: </h3>
-<form method="post" action="mailto:pedro.freitas.lima.97@gmail.com"><img align="left" alt="Gmail" width="32px" src="https://img.icons8.com/plasticine/100/000000/gmail.png"/</form>
+<a href="mailto:pedro.freitas.lima.97@gmail.com"><img align="left" alt="Gmail" width="32px" src="https://img.icons8.com/plasticine/100/000000/gmail.png"/</a>
 <a href="https://linkedin.com/in/pedrofreitaslima"><img align="left" alt="Linkedin" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>   
 <a href=""><img align="left" alt="Stack OverFlow" width="32px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
 <a href=""><img align="left" alt="Discord" width="32px" src="https://img.icons8.com/doodle/48/000000/discord-logo.png"/></a>
