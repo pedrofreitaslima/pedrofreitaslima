@@ -15,20 +15,12 @@
 
 ### Languages:
 ---
-![C#](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg)
-![SQLServer](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftsqlserver.svg)
-![MySQL](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg)
-![PostgreSQL](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg)
-![SQLite](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sqlite.svg)
-![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg)
+<img align="left" alt="Visual Studio Code" width="32px" height="32" color="#007ACC" src="https://simpleicons.org/icons/visualstudiocode.svg" />
 
-![HTML](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg)
-![CSS](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg)
 
 ### Frameworks and Libraries:
 ---
-![TypeScript](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg)
-![AngularJS]()
+
 
 ### Acquirements:
 ---
