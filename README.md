@@ -12,7 +12,12 @@
 
 #### Computer Science student at [Universidade Paulista UNIP](https://unip.br/). Intership Software Developer C# at [Fitec](http://www.fitec.org.br/en/home/). Fascinated by everything that's IoT related. Proudly from [São José dos Campos, São Paulo - Brazil](https://goo.gl/maps/W2uRhMEA3aT3Cy4F6).
 
+<h3> System Operational </h3>
+<img align="left" alt="Linux" width="32px" src="https://img.icons8.com/color/48/000000/linux.png"/>
+<img align="left" alt="Windows 10" width="32px" src="https://img.icons8.com/color/48/000000/windows-10.png"/>
 
+<br />
+<br />
 <h3> Programming Languages and Others Languages: </h3>
 <img align="left" alt="C#" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -38,10 +43,13 @@
 <br />
 <br />
 <h3> Frameworks and Libraries: </h3>
-<img align="left" alt="ReactJs" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="ReactJS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React Native" width="32px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img align="left" alt="NodeJS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="AngularJS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="JSON" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
+<img align="left" alt="Bootstrap" width="32px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img align="left" alt="Material UI" width="32px" src="https://img.icons8.com/color/48/000000/material-ui.png"/>
 
 <br />
 <br />
@@ -51,8 +59,8 @@
 <br />
 <br />
 <h3> 📬 Get in Touch: </h3>
-<img align="left" alt="Gmail" width="32px" src="https://img.icons8.com/plasticine/100/000000/gmail.png"/>
-<img align="left" alt="Linkedin" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>   
-<img align="left" alt="Stack OverFlow" width="32px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
-<img align="left" alt="Discord" width="32px" src="https://img.icons8.com/doodle/48/000000/discord-logo.png"/>
-<img align="left" alt="Skype" width="32px" src="https://img.icons8.com/cute-clipart/64/000000/skype.png"/>
+<form method="post" action="mailto:pedro.freitas.lima.97@gmail.com"><button type="submit" value="Send email"><img align="left" alt="Gmail" width="32px" src="https://img.icons8.com/plasticine/100/000000/gmail.png"/></button></form>
+<a href="https://linkedin.com/in/pedrofreitaslima"><img align="left" alt="Linkedin" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>   
+<a href=""><img align="left" alt="Stack OverFlow" width="32px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
+<a href=""><img align="left" alt="Discord" width="32px" src="https://img.icons8.com/doodle/48/000000/discord-logo.png"/></a>
+<a href=""><img align="left" alt="Skype" width="32px" src="https://img.icons8.com/cute-clipart/64/000000/skype.png"/></a>
