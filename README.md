@@ -54,13 +54,21 @@
 <br />
 <br />
 <h3> Acquirements: </h3>
-
+<ul>
+  <li>Object-oriented Programming</li>
+  <li>Transact-SQL</li>
+  <li>Algorithms and Data Structure</li>
+  <li>Agile Methodoligies</li>
+  <li>SCRUM</li>
+  <li>Unit Test</li>
+  <li>UI/UX Design</li>
+</ul>
 
 <br />
 <br />
 <h3> 📬 Get in Touch: </h3>
 <a href="mailto:pedro.freitas.lima.97@gmail.com"><img align="left" alt="Gmail" width="32px" src="https://img.icons8.com/plasticine/100/000000/gmail.png"/</a>
 <a href="https://linkedin.com/in/pedrofreitaslima"><img align="left" alt="Linkedin" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>   
-<a href=""><img align="left" alt="Stack OverFlow" width="32px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
-<a href=""><img align="left" alt="Discord" width="32px" src="https://img.icons8.com/doodle/48/000000/discord-logo.png"/></a>
-<a href=""><img align="left" alt="Skype" width="32px" src="https://img.icons8.com/cute-clipart/64/000000/skype.png"/></a>
+<a href="https://stackoverflow.com/story/pedrofreitaslima"><img align="left" alt="Stack OverFlow" width="32px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
+<a href="https://discord.com/channels/pedrofreitaslima#8103"><img align="left" alt="Discord" width="32px" src="https://img.icons8.com/doodle/48/000000/discord-logo.png"/></a>
+<a href="https://join.skype.com/invite/tbTYcfNpZgKe"><img align="left" alt="Skype" width="32px" src="https://img.icons8.com/cute-clipart/64/000000/skype.png"/></a>
