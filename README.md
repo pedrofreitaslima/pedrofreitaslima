@@ -58,8 +58,8 @@
   <li>Object-oriented Programming</li>
   <li>Transact-SQL</li>
   <li>Algorithms and Data Structure</li>
-  <li>Agile Methodoligies</li>
-  <li>SCRUM</li>
+  <li>Agile Methodoligies (SCRUM)</li>
+  <li>Domain Driven Design</li>
   <li>Unit Test</li>
   <li>UI/UX Design</li>
 </ul>
