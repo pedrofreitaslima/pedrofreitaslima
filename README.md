@@ -10,7 +10,7 @@
 ![AngularJS](https://img.shields.io/badge/AngularJS-Intermediate-blue)
 ![ReactJS](https://img.shields.io/badge/ReactJS-Intermediate-blue)
 
-#### Computer Science student at [Universidade Paulista UNIP](https://unip.br/). Junior Software Developer C# at [Fitec](http://www.fitec.org.br/en/home/). Fascinated by everything that's IoT related. Proudly from [São José dos Campos, São Paulo - Brazil](https://goo.gl/maps/W2uRhMEA3aT3Cy4F6).
+#### Computer Science student at [Universidade Paulista UNIP](https://unip.br/). Pleno Software Developer C# at [B2Card](http://www.b2card.com.br). Fascinated by everything that's IoT related. Proudly from [São José dos Campos, São Paulo - Brazil](https://goo.gl/maps/W2uRhMEA3aT3Cy4F6).
 
 <h3> System Operational </h3>
 <img align="left" alt="Linux" width="32px" src="https://img.icons8.com/color/48/000000/linux.png"/>
