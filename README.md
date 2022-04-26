@@ -1,4 +1,4 @@
-# Hi Everyone, I'm Pedro Lima welcome my Github profile 👋
+# Hi Everyone, I'm Pedro Lima welcome to my Github profile 👋
 
 ![C#](https://img.shields.io/badge/C%23-Intermediate-blue)
 ![SQLServer](https://img.shields.io/badge/SQLServer-Expert-green)
