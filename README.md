@@ -16,8 +16,8 @@
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
 ![Linix](https://img.shields.io/badge/Linux-Intermediate-blue)
 ![AngularJS](https://img.shields.io/badge/AngularJS-Basic-yellow)
-![VueJS](https://img.shields.io/badge/VueJS-Basic-blue)
-![ReactJS](https://img.shields.io/badge/ReactJS-Basic-blue)
+![VueJS](https://img.shields.io/badge/VueJS-Basic-yellow)
+![ReactJS](https://img.shields.io/badge/ReactJS-Basic-yellow)
 
 #### Computer Science student at [Universidade Paulista UNIP](https://unip.br/). Senior Sofware Engineer in .NET, and  C#, and AWS, and Python at [BRQ Digital Solutions](https://www.brq.com/en). Fascinated by everything that's CyberSecurity, and AI, and IoT related. Proudly from [São José dos Campos, São Paulo - Brazil](https://goo.gl/maps/W2uRhMEA3aT3Cy4F6).
 
