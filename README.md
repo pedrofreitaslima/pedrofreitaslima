@@ -1,16 +1,25 @@
 # Hi Everyone, I'm Pedro Lima welcome my Github profile 👋
 
-![C#](https://img.shields.io/badge/C%23-Intermediate-blue)
+![C#](https://img.shields.io/badge/C%23-Expert-green)
 ![SQLServer](https://img.shields.io/badge/SQLServer-Expert-green)
-![.NET](https://img.shields.io/badge/.NET-Intermediate-blue)
+![OracleSQL](https://img.shields.io/badge/OracleSQL-Expert-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-green)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-Expert-green)
+![.NET](https://img.shields.io/badge/.NET-Expert-green)
 ![HTML](https://img.shields.io/badge/HTML-Expert-green)
 ![CSS](https://img.shields.io/badge/CSS-Expert-green)
+![AWS](https://img.shields.io/badge/AWS-Expert-green)
+![Terraform](https://img.shields.io/badge/Terraform-Intermediate-blue)
+![Docker](https://img.shields.io/badge/Docker-Intermediate-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-blue)
-![AngularJS](https://img.shields.io/badge/AngularJS-Intermediate-blue)
-![ReactJS](https://img.shields.io/badge/ReactJS-Intermediate-blue)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![Linix](https://img.shields.io/badge/Linux-Intermediate-blue)
+![AngularJS](https://img.shields.io/badge/AngularJS-Basic-yellow)
+![VueJS](https://img.shields.io/badge/VueJS-Basic-blue)
+![ReactJS](https://img.shields.io/badge/ReactJS-Basic-blue)
 
-#### Computer Science student at [Universidade Paulista UNIP](https://unip.br/). Software Developement Analyst Senior in .NET, C# and AWS at [BRQ Digital Solutions](https://www.brq.com/en). Fascinated by everything that's AI and IoT related. Proudly from [São José dos Campos, São Paulo - Brazil](https://goo.gl/maps/W2uRhMEA3aT3Cy4F6).
+#### Computer Science student at [Universidade Paulista UNIP](https://unip.br/). Senior Sofware Engineer in .NET, and  C#, and AWS, and Python at [BRQ Digital Solutions](https://www.brq.com/en). Fascinated by everything that's CyberSecurity, and AI, and IoT related. Proudly from [São José dos Campos, São Paulo - Brazil](https://goo.gl/maps/W2uRhMEA3aT3Cy4F6).
 
 <h3> System Operational </h3>
 <img align="left" alt="Linux" width="32px" src="https://img.icons8.com/color/48/000000/linux.png"/>
@@ -25,13 +34,13 @@
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <br />
 <br />
 <h3> Tools and Technologies: </h3>
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="SQL Server" width="32px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
-<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="PostgreSQL" width="32px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
 <img align="left" alt="SQLite" width="32px" src="https://img.icons8.com/fluent/48/000000/database.png" />
 <img align="left" alt="FirebaseSQL" width="32px" src="https://img.icons8.com/color/48/000000/firebase.png"/>
