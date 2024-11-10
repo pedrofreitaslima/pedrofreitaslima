@@ -1,66 +1,148 @@
 # Hi Everyone, I'm Pedro Freitas Lima
-## I'm a senior software engineer with over five years of experience analyzing, designing, implementing, deploying, and reviewing big solutions architecture, applications, databases, and data analytics. Bachelor of computer science focusing on web cloud computing. Some my soft skills are communication, leadership, solved problems, proactivity, productivity, critical and analysing thiking.
+### I'm a senior software engineer with over five years of experience analyzing, designing, implementing, deploying, and reviewing big solutions architecture, applications, databases, and data analytics. Bachelor of computer science focusing on web cloud computing. Some my soft skills are communication, leadership, solved problems, proactivity, productivity, critical and analysing thiking.
 
-<h3> System Operational </h3>
-<img align="left" alt="Linux" width="32px" src="https://img.icons8.com/color/48/000000/linux.png"/>
-<img align="left" alt="Windows 10" width="32px" src="https://img.icons8.com/color/48/000000/windows-10.png"/>
+## Languages:
+- Portuguese - Native
+- English - Upper Intermediate (B2)
+- Spanish - Intermediate (B1)
 
-<br />
-<br />
-<h3> Programming Languages and Others Languages: </h3>
-<ul>
-  <li><img align="left" alt="C#" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /> C#</li>
-  <li><img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> Python</li>
-  <li><img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> SQL</li>
-  <li><img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
-JavaScript</li>
-  <li><img align="left" alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> TypeScript</li>
-  <li><img align="left" alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/> Java</li>
-  <li><img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML</li>
-  <li><img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> CSS</li>
-</ul>
-<br />
-<br />
-<h3> Tools and Technologies: </h3>
-<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="SQL Server" width="32px" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" />
-<img align="left" alt="PostgreSQL" width="32px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
-<img align="left" alt="SQLite" width="32px" src="https://img.icons8.com/fluent/48/000000/database.png" />
-<img align="left" alt="FirebaseSQL" width="32px" src="https://img.icons8.com/color/48/000000/firebase.png"/>
-<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Microsoft Azure" width="32px" src="https://img.icons8.com/color/48/000000/azure-1.png"/>
-<img  align="left" alt="AWS Services" width="32px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+## Programming Languages:
+- C#
+- Python
+- Javascript
+- Typescript
+- Java
+- SQL
 
-<br />
-<br />
-<h3> Frameworks and Libraries: </h3>
-<img align="left" alt="ReactJS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="React Native" width="32px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img align="left" alt="NodeJS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="AngularJS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="JSON" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
-<img align="left" alt="Bootstrap" width="32px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img align="left" alt="Material UI" width="32px" src="https://img.icons8.com/color/48/000000/material-ui.png"/>
+## Databases:
+- MS SQL Server
+- Oracle
+- PostgreSQL
+- AWS DynamoDB
+- MongoDB
+- Firebase
+- Elasticsearch
+- Redis
+- SQLite
 
-<br />
-<br />
-<h3> Acquirements: </h3>
-<ul>
-  <li>Object-oriented Programming</li>
-  <li>Transact-SQL</li>
-  <li>Algorithms and Data Structure</li>
-  <li>Agile Methodoligies (SCRUM)</li>
-  <li>Domain Driven Design</li>
-  <li>Unit Test</li>
-  <li>UI/UX Design</li>
-</ul>
+## Message Brokers:
+- AWS SQS
+- Apache Kafka
+- RabbitMQ
+- Azure Service Bus
 
-<br />
-<br />
-<h3> 📬 Get in Touch: </h3>
-<a href="mailto:pedro.freitas.lima.97@gmail.com"><img align="left" alt="Gmail" width="32px" src="https://img.icons8.com/plasticine/100/000000/gmail.png"/</a>
-<a href="https://linkedin.com/in/pedrofreitaslima"><img align="left" alt="Linkedin" width="32px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>   
-<a href="https://stackoverflow.com/story/pedrofreitaslima"><img align="left" alt="Stack OverFlow" width="32px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
-<a href="https://discord.com/channels/pedrofreitaslima#8103"><img align="left" alt="Discord" width="32px" src="https://img.icons8.com/doodle/48/000000/discord-logo.png"/></a>
-<a href="https://join.skype.com/invite/tbTYcfNpZgKe"><img align="left" alt="Skype" width="32px" src="https://img.icons8.com/cute-clipart/64/000000/skype.png"/></a>
+## Operational Systems:
+- Linux
+- Windows
+- IOS
+- Android
+
+## Cloud Providers:
+- AWS
+- Azure
+
+## Containerization Platforms:
+- Docker
+- Kubernetes
+
+## IaC tools:
+- Terraform
+
+## IDEs:
+- Visual Studio
+- Visual Studio Code
+- JetBrains Rider
+- JetBrains PyCharm
+- JetBrains IntelliJ IDEA
+- NetBeans
+
+## C# based framework:
+- .NET Framework (v4.0, v4.5.1, v4.7, v4.7.2, v4.8)
+- ASP.NET Core (v1.0, v2.0, v2.1. v2.2, v3.0, v5.0, v6.0, v7.0)
+- .NET Core (v1.0, v2.0, v2.1. v2.2, v3.0, v5.0, v6.0, v7.0)
+- ASP.NET MVC (v2, v3, v5.2.5, v5.2.6, v5.2.7, v5.2.8)
+- NUnit
+- xUnit
+- Autofac
+- Serilog
+- NLog
+- Entity Framework Core
+- Dapper
+- NHibernate
+- Moq
+- FluentAssertions
+- FluentValidation
+- Polly
+- Newtonsoft.JSON
+- Swashbuckle.AspNetCore
+- MediatR
+- SignalR
+- AutoMapper
+- NSubstitute
+- Hangfire
+- Castle.Core
+- AWSSDK
+- OAuth
+
+## Python based framework:
+- Flask
+- Pandas
+- NumPy
+- Pytest
+- Unittest
+- Keras
+- Flask
+- FastrAPI
+- TKinter
+- Matplotlib
+- Asyncio
+
+## JavaScript-based framework:
+- AngularJS
+- VueJS
+- Node.js
+- Express.js
+- Next.js
+- Meteor
+- NestJS
+- Ember.js
+- Fastify
+- Restify
+- Jest
+- Jasmine
+
+## Java based framwork:
+- Sprint Boot
+- Spring MVC
+- Hibernate
+- Micronaut
+- Apache Kafka
+- JUnit
+- Mockito
+
+## Software design principles:
+- Object-Oriented Programming Principles
+- SOLID Design Principles
+- DRY (Don’t Repeat Yourself)
+- KISS (Keep it Simple, Stupid)
+- YAGNI (You Aren’t Gonna Need It)
+- LoD (Principle of Least Knowledge)
+- Design Patterns
+- Clean Code
+- Clean Architecture
+- REST
+  
+## Architectural design principles:
+- Microservices Architecture
+- Model-View-Controller (MVC)
+- Service-Oriented Architecture (SOA)
+- Event Driven Architecture
+- CQRS Pattern (Command and Query Responsability Segregation)
+- Repository Pattern
+- Layered Pattern
+- PubSub
+- Client-Server Pattern
+- Domain-Driven Design (DDD)
+- Test-Driven Development (TDD)
+- Behavior Driven Development (BDD)
+  
