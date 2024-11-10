@@ -1,25 +1,5 @@
-# Hi Everyone, I'm Pedro Lima welcome my Github profile 👋
-
-![C#](https://img.shields.io/badge/C%23-Expert-green)
-![SQLServer](https://img.shields.io/badge/SQLServer-Expert-green)
-![OracleSQL](https://img.shields.io/badge/OracleSQL-Expert-green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-green)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-Expert-green)
-![.NET](https://img.shields.io/badge/.NET-Expert-green)
-![HTML](https://img.shields.io/badge/HTML-Expert-green)
-![CSS](https://img.shields.io/badge/CSS-Expert-green)
-![AWS](https://img.shields.io/badge/AWS-Expert-green)
-![Terraform](https://img.shields.io/badge/Terraform-Intermediate-blue)
-![Docker](https://img.shields.io/badge/Docker-Intermediate-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-blue)
-![Python](https://img.shields.io/badge/Python-Intermediate-blue)
-![Linix](https://img.shields.io/badge/Linux-Intermediate-blue)
-![AngularJS](https://img.shields.io/badge/AngularJS-Basic-yellow)
-![VueJS](https://img.shields.io/badge/VueJS-Basic-yellow)
-![ReactJS](https://img.shields.io/badge/ReactJS-Basic-yellow)
-
-#### Computer Science student at [Universidade Paulista UNIP](https://unip.br/). Senior Sofware Engineer in .NET, and  C#, and AWS, and Python at [BRQ Digital Solutions](https://www.brq.com/en). Fascinated by everything that's CyberSecurity, and AI, and IoT related. Proudly from [São José dos Campos, São Paulo - Brazil](https://goo.gl/maps/W2uRhMEA3aT3Cy4F6).
+# Hi Everyone, I'm Pedro Freitas Lima
+## I'm a senior software engineer with over five years of experience analyzing, designing, implementing, deploying, and reviewing big solutions architecture, applications, databases, and data analytics. Bachelor of computer science focusing on web cloud computing. Some my soft skills are communication, leadership, solved problems, proactivity, productivity, critical and analysing thiking.
 
 <h3> System Operational </h3>
 <img align="left" alt="Linux" width="32px" src="https://img.icons8.com/color/48/000000/linux.png"/>
